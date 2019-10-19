@@ -1,0 +1,194 @@
+﻿  EndScene.cpp
+  FontManager.cpp
+  Game.cpp
+  Label.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(17): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(28): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(54): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(75): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\label.cpp(76): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Mine.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\mine.cpp(11): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\mine.cpp(12): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\mine.cpp(24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\mine.cpp(25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Planet.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\planet.cpp(11): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\planet.cpp(12): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\planet.cpp(24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\planet.cpp(25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PlayScene.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(214): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(356): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(371): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(384): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(570): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(572): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(585): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(587): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(600): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(838): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\playscene.cpp(839): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  StartScene.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\startscene.cpp(68): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\startscene.cpp(69): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Target.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\target.cpp(10): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\target.cpp(11): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\target.cpp(24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\target.cpp(25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tile.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\tile.cpp(18): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\tile.cpp(19): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\tile.cpp(46): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\tile.cpp(47): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\tile.cpp(173): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\main.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ship.cpp
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\ship.cpp(16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\ship.cpp(17): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\ship.cpp(33): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\ship.cpp(34): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\krist\desktop\second year game program\game physics (tommy)\template v6\src\ship.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Template.vcxproj -> C:\Users\krist\Desktop\Second Year Game Program\GAME PHYSICS (Tommy)\Template v6\bin\Debug\Template.exe
